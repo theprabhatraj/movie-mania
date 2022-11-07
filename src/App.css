@@ -325,7 +325,12 @@ a{
 }
 
 @media (max-width:500px) {
+  .footer-bottom{
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+  }
   .footer-bottom ul{
-    float: none;
+    margin-top: 10px;
   }
   }
