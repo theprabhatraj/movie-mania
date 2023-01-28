@@ -1,3 +1,19 @@
+# Movie-Mania
+
+[Vistit Movie-Mania Website](https://movie-mania1.netlify.app/)
+
+![](https://github.com/theprabhatraj/movie-mania/blob/main/movie-mania.png)
+
+Movie-Mania is a website that allows users to easily find and discover movies that they are interested in watching. The website is built using React, a JavaScript library for building user interfaces, which allows for a fast and responsive user experience. It also utilizes an API (Application Programming Interface) to pull in movie data from external sources, such as IMDb.
+
+Users can search for movies by title, genre, actor, director, or release year. The search results will display a list of movies that match the user's criteria, with information such as the movie's title, release date, rating, and a brief plot summary. By clicking on a movie title, users will be redirected to the IMDb page for that movie, where they can view more detailed information such as cast, reviews, ratings and trailers.
+
+Movie-Mania also features a "Top Rated" section, where users can see the highest rated movies on the website, and a "Watchlist" where users can create a list of movies they want to watch in the future.
+
+The website is regularly updated with new movies, so users can always find something new to watch. With its user-friendly interface and access to detailed movie information, Movie-Mania is a great resource for movie lovers.
+
+[Vistit Movie-Mania Website](https://movie-mania1.netlify.app/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
